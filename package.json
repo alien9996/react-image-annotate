@@ -1,5 +1,5 @@
 {
-  "name": "react-image-annotate",
+  "name": "react-imannotate",
   "version": "4.3.1",
   "private": false,
   "type": "module",
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/starwit/react-image-annotate"
+    "url": "https://github.com/alien9996/react-image-annotate.git"
   },
   "peerDependencies": {
     "react": "^18.0.0",
